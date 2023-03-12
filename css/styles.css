@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #7FB77E;
+    text-align: center;
+}
+
+.section1{
+    background-image: url(images/section1-bg.jpg);
+}
+
+h1{
+    background-color: #FFC090;
+}
+
+.dog-pic-style, .dog1-pic-style{
+    height: 400px;
+    width: 400px;
+}
